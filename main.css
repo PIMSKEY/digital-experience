@@ -1,5 +1,14 @@
+html, body{
+    height: 100%;
+}
+
 body {
     background-image: url(./images/perkament.jpg);
     background-position: center;
     background-size: cover;
+}
+
+.container {
+    background: red;
+    width: 80%;
 }
